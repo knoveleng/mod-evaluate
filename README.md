@@ -2,6 +2,8 @@
 
 This repository contains the code and evaluation scripts for the paper: **MoD: A Distribution-Based Approach for Merging Large Language Models**.
 
+![Comparision](assets/comparision.png)
+
 ## Setup 
 
 ### 1. Clone Repository and Install Requirements
