@@ -51,3 +51,16 @@ To run evaluations for different model configurations, execute the following she
 sh sh/run_eval_qwen2_1.5_math.sh
 sh sh/run_eval_qwen2_7_math.sh
 ```
+
+## Cite our Work
+```
+@misc{dang2024moddistributionbasedapproachmerging,
+      title={MoD: A Distribution-Based Approach for Merging Large Language Models}, 
+      author={Quy-Anh Dang and Chris Ngo},
+      year={2024},
+      eprint={2411.00406},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.00406}, 
+}
+```
