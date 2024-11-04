@@ -1,6 +1,6 @@
 # Mixture of Distributions - Evaluation
 
-This repository contains the code and evaluation scripts for the paper: **MoD: A Distribution-Based Approach for Merging Large Language Models**.
+This repository contains the code and evaluation scripts for the paper [MoD: A Distribution-Based Approach for Merging Large Language Models](https://arxiv.org/abs/2411.00406).
 
 ![Comparision](assets/comparision.png)
 
